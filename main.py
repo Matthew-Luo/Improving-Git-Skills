@@ -1,7 +1,7 @@
 # This is the main program
 
-print("hello there")
-print("right now this is a very simple program")
+print("Hello there, how are you?")
+user_name = input("What's your name? ")
 
 while True:
     user_input = input("Please enter a number: ")
