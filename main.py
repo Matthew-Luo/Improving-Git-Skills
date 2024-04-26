@@ -21,3 +21,7 @@ print("I can count to you number")
 for i in range(user_num + 1):
     print(i)
 
+
+print("Look " + user_name + ", I can also count by 2's")
+for i in range(0, user_num + 1, 2):
+    print(i)
